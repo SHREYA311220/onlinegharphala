@@ -1,0 +1,155 @@
+
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F1F1F1;
+  width: 1510px;
+  height: 39px;
+  padding: 2px 0px;
+  
+}
+
+.navbar2{
+  width: 1510px;
+  height: 74.7px;
+  background-color: #fff;
+ 
+  align-items: center;
+  justify-content:center;
+  display: flex;
+}
+.nav-container{
+  position: sticky; top:0;
+}
+.logo{
+  width: 167px;
+  height: 74.71px;
+  border: 1px solid black;
+  margin-right: 15.5cm;
+}
+.search{
+  height: 35px;
+  width: 104.91px;
+}
+.contact{
+  padding: 8px 29.4px 10px 7px;
+}
+.heroimg{
+  
+  background-repeat: no-repeat;
+}
+.box{
+  height: 141px;
+  width: 390px;
+ font-size: large;
+ font-family: sans-serif;
+ color: #fff;
+ font: 20px;
+ text-align: left;
+  justify-content: space-evenly;
+}
+.box-container{
+  display: flex;
+ justify-content: center;
+ margin-top: -100px;
+}
+.box1-container,.box2-container,.box3-container{
+  height: 171px;
+  
+  margin-right: 20px;
+  margin: 0px 0px 30px;
+ padding: 15px ;
+
+}
+.overview{
+  height:  2375.94px;
+  width:877.5px;
+  margin: 0px 15px;
+  padding: 0px 15px;
+  font-family: sans-serif;
+  color: #515151;
+  
+}
+.overview-container{
+  height: 34.39px;
+  width: 8847.5px;
+}
+.quick-links{
+  height: 1434.8px;
+  width: 292.5px;
+  margin: 0px 15px;
+  font-family: sans-serif;
+  color: #515151;
+}
+.boxes{
+display: flex;
+justify-content: center;
+}
+.about{
+  width: 120px;
+  height: 40px;
+  font-family: sans-serif;
+  color: #515151;
+  background-color: #f1f2f4;
+  margin-right: 5px;
+  padding: 10px ;
+  padding-left: 30px;
+  text-decoration: none;
+  border: none;
+  
+}
+.pay{
+  width:250px;
+  height: 40px;
+  font-family: sans-serif;
+  color: #515151;
+  background-color: #f1f2f4;
+  margin-right: 5px;
+  padding: 10px ;
+  padding-left: 30px;
+  text-decoration: none;
+  border: none;
+}
+.overview-container{
+  display: flex;
+}
+.about:hover{
+  background-color: #46c9e6;
+  color: white;
+  font-family: sans-serif;
+}
+.pay:hover{
+  background-color: #46c9e6;
+  color: white;
+  font-family: sans-serif;
+}
+
+.info{
+  width: 210px;
+  height: 200px;
+  text-align: center;
+  border: 1px solid black;
+  margin-top: 30px;
+  padding: 25px 14px 10px;
+ 
+  
+}
+.search-icon{
+  text-align: center;
+ background-color: rgba(255, 0, 0, 0.762);
+ color: #fff;
+}
+.info:hover{
+  border: 2px solid #46c9e6 ;
+  box-shadow: 0px 0px 10px #46c9e6 ;
+}
+
+.services{
+  background-color: #f3f3f3;
+  height: 847px;
+  width: 833px;
+  margin-top: 1cm;
+}
+
